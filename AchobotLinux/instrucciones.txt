@@ -1,0 +1,18 @@
+Cambiar permiso ttyUSB0 (chmod 777 /dir/ttyUSB0)
+
+INSTALAR: (sudo apt install)
+curl
+jq
+speech-dispatcher (si no lo tienes)
+
+
+YA ESTAS LISTO!!!!
+
+Iniciar programa desde terminal (java -jar AchobotLinux.jar)
+
+
+
+Si no funciona la voz, probablemente sea debido a que Speech-Dispatcher crea procesos basura.
+En ese caso, debes borrarlos con: rm -rf /run/user/1000/speech-dispatcher
+
+Y después, reiniciar el servicio: systemctl --user restart speech-dispatcher
