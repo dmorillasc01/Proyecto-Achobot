@@ -63,7 +63,9 @@ public class ProyectoAchobot {
         fondo.setBounds(0, 0, 600, 600);
         ventana.add(fondo);
         
-
+        String scriptAccesoDirecto = "scripts/accesoDirecto.ps1";
+        ejecutarPowerShell(scriptAccesoDirecto);
+        
         ////// Luces - OJO1 //////
         ///
         // Creación de JButton botonOjo1

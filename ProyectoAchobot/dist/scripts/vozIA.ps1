@@ -101,7 +101,7 @@ $jobParpadeo = Start-Job -ScriptBlock {
 
 # Configuración de la API de OpenAI
 $uri = "https://api.openai.com/v1/chat/completions"
-$apiKey = "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"  # ⚠ Reemplaza por tu nueva API key
+$apiKey = "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"  # ⚠ Reemplaza por tu nueva API key
 $headers = @{
     "Authorization" = "Bearer $apiKey"
     "Content-Type"  = "application/json; charset=utf-8"

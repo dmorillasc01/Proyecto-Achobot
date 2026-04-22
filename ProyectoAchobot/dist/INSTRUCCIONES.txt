@@ -1,0 +1,15 @@
+¡Hola! Me alegra profundamente que hayas instalado mi programa.
+
+Esta es la versión 0.2, y hemos añadido un cambio importante de calidad de vida.
+
+Lo que tienes que hacer como usuario es hacer doble-click sobre ProyectoAchobot.jar (Con java instalado).
+
+A continuación se te abrirá el programa normal, pero, también se te creará un icono en el escritorio.
+
+A partir de ahora puedes acceder al programa desde allí, siempre y cuando la carpeta de AchobotAPP esté en el mismo lugar.
+
+¿Qué hago si muevo la carpeta por X motivo? - 
+
+	En ese caso, borra el acceso directo,
+	vuelve a la carpeta de AchobotAPP y ejecuta el archivo .jar con doble-click.
+	¡Ahora se te volverá a crear el acceso directo con la nueva ruta!
