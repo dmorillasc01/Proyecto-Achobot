@@ -7,4 +7,6 @@ En el caso de que se haya descargado la versión de Windows (Recomendada si eres
 
 En el caso de que se haya descargado la versión de Linux (Recomendada si eres usuario de Linux), debes seguir las instrucciones de "instrucciones.txt".
 
+Si quiere obtener más información, puede ver nuestro video instroductorio: https://youtu.be/mOVona14q_M
+
 ### ¡Disfruta del programa!
